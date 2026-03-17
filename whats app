@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DMT - Double Monkey Trading</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  margin-bottom: 10px;
+}
+
+button, .btn {
+  background: #22c55e;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.section {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.card {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.pricing {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  width: 250px;
+}
+
+.whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #25D366;
+  padding: 14px 18px;
+  border-radius: 50px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+
+<!-- HERO -->
+<div class="section">
+  <div class="container">
+    <h1>Double Monkey Trading (DMT)</h1>
+    <p>Learn the system. Trade smarter. Build real income.</p>
+
+    <h3>Get FREE DMT Cheat Sheet</h3>
+
+    <form action="YOUR_MAILCHIMP_ACTION_URL" method="post" target="_blank">
+      <input type="email" name="EMAIL" placeholder="Enter your email" required>
+      <br><br>
+      <button type="submit">Get Free Guide</button>
+    </form>
+
+    <p style="font-size:12px;">Check your email after signup</p>
+  </div>
+</div>
+
+<!-- ABOUT -->
+<div class="section" style="background:#1e293b;">
+  <div class="container">
+    <h2>What is DMT?</h2>
+    <p>A structured trading system designed to simplify market decisions and improve consistency.</p>
+  </div>
+</div>
+
+<!-- COURSE -->
+<div class="section">
+  <div class="container">
+    <h2>What You Will Learn</h2>
+
+    <div class="pricing">
+      <div class="card">
+        <h3>📊 Basics</h3>
+        <p>Market structure & foundation</p>
+      </div>
+
+      <div class="card">
+        <h3>🎯 Strategy</h3>
+        <p>Entry, exit, confirmations</p>
+      </div>
+
+      <div class="card">
+        <h3>💰 Risk</h3>
+        <p>Capital protection & discipline</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PRICING -->
+<div class="section" style="background:#1e293b;">
+  <div class="container">
+    <h2>Join DMT Classes</h2>
+
+    <div class="pricing">
+
+      <div class="card">
+        <h3>Starter</h3>
+        <p>Beginner Course</p>
+        <h2>Rs. 1999</h2>
+        <a href="https://wa.me/977XXXXXXXXXX" class="btn">Enroll</a>
+      </div>
+
+      <div class="card">
+        <h3>Pro</h3>
+        <p>Full System + Live Sessions</p>
+        <h2>Rs. 4999</h2>
+        <a href="YOUR_PAYMENT_LINK" class="btn">Pay & Join</a>
+      </div>
+
+      <div class="card">
+        <h3>Mentorship</h3>
+        <p>1-on-1 Guidance</p>
+        <h2>Rs. 9999</h2>
+        <a href="https://wa.me/977XXXXXXXXXX" class="btn">Contact</a>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="section">
+  <div class="container">
+    <h2>Ready to Start?</h2>
+    <p>Join hundreds learning DMT trading</p>
+    <a href="https://wa.me/977XXXXXXXXXX" class="btn">Chat on WhatsApp</a>
+  </div>
+</div>
+
+<!-- WHATSAPP FLOAT -->
+<a href="https://wa.me/977XXXXXXXXXX" class="whatsapp">Chat</a>
+
+</body>
+</html>
